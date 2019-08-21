@@ -1,0 +1,13 @@
+nav.main-nav ul {
+    width: 600px;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav a {
+    color: var(--links-color)
+}
